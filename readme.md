@@ -1,0 +1,5 @@
+# drivercontrol
+
+以selenium為基底的一系列小工具
+目前主要只有discord有在維護
+其他大半是爛的
